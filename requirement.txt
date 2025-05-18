@@ -1,8 +1,8 @@
-numpy
-torch
-torchvision
-matplotlib
-seaborn
-nibabel
-scikit-learn
-tqdm
+matplotlib == 3.7.5  
+nibabel == 5.2.1  
+numpy == 1.24.4  
+scikit-learn == 1.3.2  
+seaborn == 0.13.2  
+torch == 2.4.1  
+torchvision == 0.19.1  
+tqdm == 4.67.1  

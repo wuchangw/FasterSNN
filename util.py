@@ -1,5 +1,6 @@
 import torch
 from torch.utils.data import DataLoader
+from sklearn.metrics import accuracy_score, cohen_kappa_score
 
 def evaluate_all_metrics(model, test_loader, model_name, device):
     from test import evaluate_model

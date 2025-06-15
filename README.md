@@ -139,3 +139,11 @@ python test.py \
 | **Ours** | <span style="color:red">0.8737</span> | <span style="color:red">0.8714</span> | <span style="color:red">0.8727</span> | <span style="color:red">0.8681</span> | <span style="color:red">0.8094</span> | <span style="color:red">0.9364</span> | <span style="color:red">1.01</span> | <span style="color:red">12</span> | <span style="color:blue">43.11</span> | <span style="color:red">2</span> |
 
 ### Citation
+```
+@article{wu2025towards,
+  title={Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model},
+  author={Wu, Changwei and Chen, Yifei and Du, Yuxin and Zong, Jinying and Dong, Jie and Liu, Mingxuan and Peng, Yong and Fan, Jin and Qin, Feiwei and Wang, Changmiao},
+  journal={arXiv preprint arXiv:2506.09695},
+  year={2025}
+}
+```

@@ -121,8 +121,10 @@ python test.py \
 | SPT            | 0.6505   | 0.6557    | 0.6505 | 0.6523   | 0.4732 | 0.8083  | 17.78      | 47             | 9.64         | <span style="color:red">2</span>  |
 | PointNet      | 0.6893   | 0.7024    | 0.6893 | 0.6776   | 0.5347 | 0.8307  | 1.32       | 43             | <span style="color:blue">3.47</span>      | 16        |
 | **Ours**            | <span style="color:red">0.8737</span> | <span style="color:red">0.8714</span> | <span style="color:red">0.8727</span> | <span style="color:red">0.8681</span> | <span style="color:red">0.8094</span> | <span style="color:red">0.9364</span> | <span style="color:blue">1.01</span> | <span style="color:red">12</span> | 43.11      | <span style="color:red">2</span> |
+
 ![FasterSNN Architecture](./picture/combine_cm.png) 
 *Figure: Confusion matrix of FasterSNN on ADNI dataset*
+
 ### 3. Ablation Study (ADNI)
 | Model   | Accuracy | Precision | Recall | F1-score | Kappa  | AVG AUC | Energy (J) | Train time (s) | Parameter (M) | Time Step |
 |---------|----------|-----------|--------|----------|--------|---------|------------|----------------|--------------|-----------|

@@ -1,7 +1,7 @@
 # FasterSNN: A Lightweight and Interpretable Spiking Neural Model for Alzheimer's Disease Diagnosis
 **FasterSNN** is a lightweight spiking neural network for Alzheimer's disease diagnosis from 3D MRI scans. It combines bio-inspired LIF neurons with efficient region-adaptive convolutions and multi-scale attention, achieving **89.44% accuracy** on ADNI data while using **152× less energy** than traditional CNNs. The model's sparse event-driven computation and interpretable architecture make it ideal for clinical deployment.
 
-![FasterSNN Architecture](./picture/model.png)  
+![FasterSNN Architecture](./picture/new_model.png)  
 *Figure: FasterSNN Architecture*
 # Project Structure
 ```
